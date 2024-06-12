@@ -18,4 +18,6 @@ public class Curso {
         return id;
     }
 
+    public String getNombre(){ return nombre; }
+
 }
